@@ -1,0 +1,46 @@
+body {
+  /* background: url("/pict/lauren-mancke-aOC7TSLb1o8-unsplash.jpg");
+  background-size: cover; */
+  color: #dc658b;
+  background-color: lavender;
+}
+header {
+  text-align: center;
+}
+body {
+  /* background-color: lavender; */
+  font-family: helvetica;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+nav {
+  font-size: 16px;
+}
+button {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: helvetica;
+}
+button:hover {
+  background-color: RoyalBlue;
+}
+
+/* a refers to the <a> tag */
+/* text-decoration set to none to remove underlines(in this case) within a link */
+
+a {
+  color: blue;
+  margin: 5px;
+  text-decoration: none;
+}
